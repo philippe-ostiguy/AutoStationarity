@@ -6,7 +6,7 @@
 <br>
 
 # AutoStationarity 📈 <br>
-
+<br>
 
 ## Want to Decrease Your Model’s Prediction Errors by 20%? Follow This Simple Trick
 
@@ -20,7 +20,7 @@ Learn why making your time series stationary improves your model accuracy. Also,
 discover how to automatically apply this technique in your machine learning 
 pipeline using a simple Python script.
 <br>
-
+<br>
 ## Usage
 
 It is recommended to read [this article](https://levelup.gitconnected.com/want-to-decrease-your-models-prediction-errors-by-20-follow-this-simple-trick-97354102098e) 
