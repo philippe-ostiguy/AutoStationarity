@@ -2,7 +2,7 @@
   <img src="./happy_solution.png" alt="Description of the image">
 </p>
 <p align="center">
-  <em>AI image created on MidJourney V6.1 by the author.</em>
+  AI image created on MidJourney V6.1 by the author.
 </p><br>
 <br>
 
