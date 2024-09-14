@@ -6,7 +6,7 @@
 <br>
 
 # AutoStationarity 📈 <br>
-<br>
+
 
 ## Want to Decrease Your Model’s Prediction Errors by 20%? Follow This Simple Trick
 
