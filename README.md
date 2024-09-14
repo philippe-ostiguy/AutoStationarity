@@ -30,6 +30,7 @@ automatically.
 2. Execute the code with `python -m trainer`
 <br>
 <br>
+
 ## Liked this repo? Show your support!
 ⭐ Give the project a star <br>
 🤝 Send me a [LinkedIn](https://www.linkedin.com/in/philippe-ostiguy/) connection request to stay in touch
