@@ -2,7 +2,7 @@
   <img src="./happy_solution.png" alt="Description of the image">
   <figcaption style="text-align: center;">AI image created on MidJourney V6.1 by the author.
 </figcaption>
-</figure>
+</figure><br>
 <br>
 
 # AutoStationarity 📈 <br>
