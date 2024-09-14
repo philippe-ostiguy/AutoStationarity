@@ -1,8 +1,9 @@
-<figure>
+<p align="center">
   <img src="./happy_solution.png" alt="Description of the image">
-  <figcaption style="text-align: center;">AI image created on MidJourney V6.1 by the author.
-</figcaption>
-</figure><br>
+</p>
+<p align="center">
+  <em>AI image created on MidJourney V6.1 by the author.</em>
+</p><br>
 <br>
 
 # AutoStationarity 📈 <br>
