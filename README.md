@@ -4,7 +4,7 @@
 </figcaption>
 </figure>
 
-# AutoStationarity 📈
+# AutoStationarity 📈 <br>
 ## Want to Decrease Your Model’s Prediction Errors by 20%? Follow This Simple Trick
 
 Time series modeling can be tricky, even for experienced data scientists. 
