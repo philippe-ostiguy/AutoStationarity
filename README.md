@@ -4,6 +4,7 @@
 </figcaption>
 </figure>
 
+# AutoStationarity 📈
 ## Want to Decrease Your Model’s Prediction Errors by 20%? Follow This Simple Trick
 
 Time series modeling can be tricky, even for experienced data scientists. 
@@ -16,12 +17,18 @@ Learn why making your time series stationary improves your model accuracy. Also,
 discover how to automatically apply this technique in your machine learning 
 pipeline using a simple Python script.
 
-I recommend reading [this article](https://levelup.gitconnected.com/want-to-decrease-your-models-prediction-errors-by-20-follow-this-simple-trick-97354102098e) 
+
+## Usage
+
+It is recommended to read [this article](https://levelup.gitconnected.com/want-to-decrease-your-models-prediction-errors-by-20-follow-this-simple-trick-97354102098e) 
 for a good understanding of how to use the code and make your data stationary 
 automatically.
 
-### Using the code
 1. Run `pip install -r requirements.txt` to install the requirements
 2. Execute the code with `python -m trainer`
+
+## Liked this repo? Show your support!
+⭐ Give the project a star <br>
+🤝 Send me a [LinkedIn](https://www.linkedin.com/in/philippe-ostiguy/) connection request to stay in touch
 
 Happy reading and automation!
