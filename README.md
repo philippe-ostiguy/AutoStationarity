@@ -29,7 +29,7 @@ automatically.
 1. Run `pip install -r requirements.txt` to install the requirements
 2. Execute the code with `python -m trainer`
 <br>
-<br>
+
 
 ## Liked this repo? Show your support!
 ⭐ Give the project a star <br>
